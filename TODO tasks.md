@@ -1,5 +1,12 @@
 - [x] Clear Out Notepad & save data
 - [ ] [[DelChoco - (Loader) Version (update)]]
 - [ ] [[DelChoco - (Loader) Version (Update) Checklist]]
-- [ ] Test Gradle 4.10.3 
+- [x] Test Gradle 4.10.3 
 	- Unable to find where I got gradle 4.10 to begin with.
+- [x] Get Gradle 4.10.3 Working
+- [ ] Get Mixin Support Added
+- [ ] Add in Variant Types
+- [ ] Add in Block Entites
+- [ ] Add in Entities
+- [ ] Modernize concepts that use to be used to what are useful now
+
