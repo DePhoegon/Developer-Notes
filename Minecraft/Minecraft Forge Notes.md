@@ -1,0 +1,14 @@
+- [[1.12.2 - Forge]] -- Read for Special setup
+- 1.18.2 - Forge
+- 1.18.2 - Fabric
+- 1.19.2 - Forge
+- 1.19.2 - Fabric
+- 1.19.3 - Forge
+- 1.19.3 - Fabric
+- 1.20 - Forge
+- 1.20 - Fabric
+- 1.20.1 - Forge
+- 1.20.1 - Fabric
+- 1.21.1 - Neoforge
+- 1.21.1 - Forge
+- 1.21.1 - Fabric

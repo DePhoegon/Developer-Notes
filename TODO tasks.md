@@ -1,0 +1,5 @@
+- [x] Clear Out Notepad & save data
+- [ ] [[DelChoco - (Loader) Version (update)]]
+- [ ] [[DelChoco - (Loader) Version (Update) Checklist]]
+- [ ] Test Gradle 4.10.3 
+	- Unable to find where I got gradle 4.10 to begin with.

@@ -11,10 +11,10 @@
             "id": "5b5440b237e5d55c",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -27,13 +27,28 @@
             "id": "ec6ec8d0da03b360",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "01c84f6232d9e14b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft/JSON Files.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "JSON Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +199,16 @@
   "active": "5b5440b237e5d55c",
   "lastOpenFiles": [
     "TODO tasks.md",
+    "Minecraft/JSON Files.md",
+    "Coding Notes.md",
+    "Minecraft Notes.md",
+    "README.md",
+    "Minecraft/Minecraft General Notes.md",
+    "Minecraft/Minecraft NeoForge Notes.md",
     "LICENSE",
     "Minecraft/Dev TODO-NOTES/DelChoco - (Loader) Version (Update) Checklist.md",
     "Minecraft/Dev TODO-NOTES/DelChoco - (Loader) Version (update).md",
     "Minecraft/Code/Version Exclusive/1.12.2 - Minecraft Namespace Usage.md",
-    "Minecraft/JSON Files.md",
     "Minecraft/Versions/1.12.2 - Forge.md",
     "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Model Override Built-in.md",
     "Minecraft/Model JSON/Blocks/Full Block/Normal Block with Custom Template- 1.12.2+.md",
@@ -205,10 +225,6 @@
     "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} Common Proxy.md",
     "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} Block Registration.md",
     "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} 4.10 Gradle Notes.md",
-    "Minecraft/Code/Version Exclusive/4.10 - build.gradle.md",
-    "Minecraft/Code/Version Exclusive/4.10 - 1.12.2 {Forge} gradle.properties.md",
-    "Minecraft/Minecraft Forge Notes.md",
-    "Minecraft Notes.md",
     "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper/gradle-wrapper.properties",
     "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper/gradle-wrapper.jar",
     "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper",
