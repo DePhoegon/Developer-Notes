@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "cc93934571689c16",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba533493e20a8292",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b5440b237e5d55c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bebcdbb4ecce745b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6ec8d0da03b360",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4d0dafbca0eb7ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "9823b1fd35aca4d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6933ed86cb985e9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff62fd99cc046787",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "72304c08fe290088",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8fff4ca61daf2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fe2798908ee94a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2bede9e6b219047",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "876d63b179a3b8c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "b7793c9f51f24f32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0a5c8dd66b526995",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5b5440b237e5d55c",
+  "lastOpenFiles": [
+    "TODO tasks.md",
+    "LICENSE",
+    "Minecraft/Dev TODO-NOTES/DelChoco - (Loader) Version (Update) Checklist.md",
+    "Minecraft/Dev TODO-NOTES/DelChoco - (Loader) Version (update).md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - Minecraft Namespace Usage.md",
+    "Minecraft/JSON Files.md",
+    "Minecraft/Versions/1.12.2 - Forge.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Model Override Built-in.md",
+    "Minecraft/Model JSON/Blocks/Full Block/Normal Block with Custom Template- 1.12.2+.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}pack.mcmeta.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Main Class.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}mcmod.info.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Intellij Setup.md",
+    "Minecraft/Code/Version Exclusive/4.10 - {Gradle} gradlew.bat.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Model Registration.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Leaf & Grass Block-item Color Interface Support.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}ColorEventHandler.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge}Client Proxy.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} Leaf transparent Block.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} Common Proxy.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} Block Registration.md",
+    "Minecraft/Code/Version Exclusive/1.12.2 - {Forge} 4.10 Gradle Notes.md",
+    "Minecraft/Code/Version Exclusive/4.10 - build.gradle.md",
+    "Minecraft/Code/Version Exclusive/4.10 - 1.12.2 {Forge} gradle.properties.md",
+    "Minecraft/Minecraft Forge Notes.md",
+    "Minecraft Notes.md",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper/gradle-wrapper.properties",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper/gradle-wrapper.jar",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10/Wrapper",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/4.10",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/New folder",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/Wrapper/gradle-wrapper.jar",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/Wrapper/gradle-wrapper.properties",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/Wrapper",
+    "Minecraft/Code/Version Exclusive/Gradle wrapper/gradle-wrapper.properties"
+  ]
+}
