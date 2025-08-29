@@ -6,3 +6,4 @@ This will updated in small parts and flushed out with notes as it goes.
 
 Setting up forge 1.12.2 Dev Environment with a version of Gradle that properly functions in modern Intellij
 - Added
+- Completed

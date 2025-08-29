@@ -4,6 +4,7 @@
 - [x] Test Gradle 4.10.3 
 	- Unable to find where I got gradle 4.10 to begin with.
 - [x] Get Gradle 4.10.3 Working
+- [x] Solve getAssets downloads [[HTTP PROXY - resources.downloads.minecraft.net]]
 - [ ] Get Mixin Support Added
 - [ ] Add in Variant Types
 - [ ] Add in Block Entites
